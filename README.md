@@ -11,4 +11,7 @@ Integer:
   7. num (diagnosis of heart disease)
 
 Dealing with NaN:
-  Since from our 303 observations we only have 5 observations, one way to deal with NaN values could be just *removing* those observations
+  - Since from our 303 observations we only have 6 observations, one way to deal with NaN values could be just *removing* those observations
+
+Relevant papers:
+  1. Nassif, A. (et al). *Machine Learning Classifications of Coronary Artery Disease*. 2018. 10.1109/iSAI-NLP.2018.8692942
