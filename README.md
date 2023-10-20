@@ -23,4 +23,4 @@ Relevant papers:
 What I (Miguel) have done on 17/10/2023:
   1. Tested random forest and decision tree for all features raw features: accuracy was practically 0.50
   2. Selected 6 features ('sex','trestbps','chol','fbs','restecg','slope') through Spearman correlation and threshold of 0.20. The labels weren't 0,1,2,3, and 4, but 0 and 1, where 1 represents presence of disease. The training set was 85%
-  3. The Decision Tree classifier started with standard hyperparameters and accuracy was around 0.6-0.65. Some hyperparameters were changed and the only that proved to increase accuracy was the maximum depth of the Tree: the parameter was set to 2. This way, accuracy was 0.71.
+  3. The Decision Tree classifier started with standard hyperparameters and accuracy was around 0.6-0.65. Some hyperparameters were changed and the only that proved to increase accuracy was the maximum depth of the Tree: the parameter was set to 3. This way, accuracy was 0.73. Code is in project1_experiment.
