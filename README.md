@@ -19,6 +19,7 @@ Relevant papers:
   4. Liu X. (*et al*). 2017. *A Hybrid Classification System for Heart Disease Diagnosis Based on the RFRS Method*. DOI: 10.1155/2017/8272091
   5. Liska G. (*et al*). 2017. *Monte Carlo Evaluation of Classification Algorithms Based on Fisher's Linear Function in Classification of Patients With CHD*. DOI: 10.9790/5728-130104104109
   6. Seenivasagam V. (*et al*). 2014. *MYOCARDIAL INFARCTION DETECTION USING INTELLIGENT ALGORITHMS*. DOI: 10.14311/NNW.2016.26.005
+  7. Sidey-Gibbons J. (*et al*). 2019. *Machine learning in medicine: a practical introduction*. DOI: 10.1186/s12874-019-0681-4
 
 What I (Miguel) have done on 17/10/2023:
   1. Tested random forest and decision tree for all features raw features: accuracy was practically 0.50
