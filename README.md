@@ -1,4 +1,5 @@
 # FAA_project1
+### GOAL: Assess heart disease by classifing with 0, 1, 2, 3, 4 instead of binary classification, testing various methods.
 
 To start, we can devide the dataset according to categorical and interger features.
 Integer:
