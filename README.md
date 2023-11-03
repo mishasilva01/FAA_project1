@@ -1,4 +1,7 @@
 # FAA_project1
+
+## URGENT MUST: COMBINATION-3 + SMOTE + NEURAL
+
 ### GOALS and general discription: 
 - The mail goal is to assess heart disease by *classifying with 0, 1, 2, 3, 4* instead of binary classification, testing various methods (literature mostly reviews binary classification).
 - We have the problem of *class imbalance*, so we have to oversample classes different to 0. We can double the samples 1,2,3,4 or go with with the SMOTE algorithm (we need to explain this method).
