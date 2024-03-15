@@ -29,8 +29,4 @@ Integer:
   5. Liska G. (*et al*). 2017. *Monte Carlo Evaluation of Classification Algorithms Based on Fisher's Linear Function in Classification of Patients With CHD*. DOI: 10.9790/5728-130104104109
   6. Seenivasagam V. (*et al*). 2014. *MYOCARDIAL INFARCTION DETECTION USING INTELLIGENT ALGORITHMS*. DOI: 10.14311/NNW.2016.26.005
   7. Sidey-Gibbons J. (*et al*). 2019. *Machine learning in medicine: a practical introduction*. DOI: 10.1186/s12874-019-0681-4
-
-#### What Miguel has done on 17/10/2023:
-  1. Tested random forest and decision tree for all features raw features: accuracy was practically 0.50
-  2. Selected 6 features ('sex','trestbps','chol','fbs','restecg','slope') through Spearman correlation and threshold of 0.20. The labels weren't 0,1,2,3, and 4, but 0 and 1, where 1 represents presence of disease. The training set was 85%
-  3. The Decision Tree classifier started with standard hyperparameters and accuracy was around 0.6-0.65. Some hyperparameters were changed and the only that proved to increase accuracy was the maximum depth of the Tree: the parameter was set to 3. This way, accuracy was 0.73. Code is in project1_experiment.
+  
